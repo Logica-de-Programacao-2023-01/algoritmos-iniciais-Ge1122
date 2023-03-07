@@ -1,0 +1,5 @@
+Algoritmo de cálculo de média: um algoritmo que calcula a média de uma lista de números
+1: enquanto existem elementos
+2: leia os elementos 
+3: média = (soma dos elementos)/nº elementos
+4: escreva a média 
